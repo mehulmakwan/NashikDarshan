@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nashik Darshan Yatra</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700&family=Noto+Sans+Gujarati:wght@400;500;600;700&family=Noto+Serif+Devanagari:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="landing-page">
+  <main class="hero">
+    <div class="hero__glow hero__glow--left"></div>
+    <div class="hero__glow hero__glow--right"></div>
+
+    <section class="hero__card fade-up">
+      <p class="hero__eyebrow" data-i18n="landingEyebrow">Sacred journeys begin with intention</p>
+      <h1 class="hero__title" data-i18n="landingTitle">Welcome to Nashik Darshan Yatra</h1>
+      <p class="hero__subtitle" data-i18n="landingSubtitle">
+        Discover spiritual landmarks, local heritage across Nashik.
+      </p>
+
+      <div class="field-group">
+        <label for="languageSelect" class="field-group__label" data-i18n="selectLanguageLabel">Select Your Language</label>
+        <div class="select-wrap">
+          <select id="languageSelect" class="language-select" aria-label="Select your language">
+            <option value="en">English</option>
+            <option value="hi">Hindi (हिंदी)</option>
+            <option value="gu">Gujarati (ગુજરાતી)</option>
+          </select>
+        </div>
+      </div>
+
+      <button id="continueBtn" class="btn btn--primary" type="button" data-i18n="continueButton">Continue</button>
+    </section>
+  </main>
+
+  <footer class="site-footer" data-i18n="footerText">BAPS Swaminarayan Mandir, Nasik</footer>
+
+  <script src="content-data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
