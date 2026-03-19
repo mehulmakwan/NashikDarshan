@@ -1,178 +1,5 @@
 window.PLACE_CONTENT = [
   {
-    "id": "kalaram",
-    "image": "img/kalaram.jpeg",
-    "query": "https://www.google.com/maps/place/Shree+Kalaram+Mandir,+Panchavati,+Nashik/@20.0070059,73.7953316,20.75z/data=!4m6!3m5!1s0x3bddea54af93f661:0x24d9baa56b890e57!8m2!3d20.0069904!4d73.7952288!16zL20vMDZkem5f?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D",
-    "name": {
-      "en": "Shri Kalaram Mandir",
-      "hi": "श्री कालाराम मंदिर",
-      "gu": "શ્રી કાલારામ મંદિર"
-    },
-    "subtitle": {
-      "en": "Shri Kalaram Mandir is one of the most famous temples in Nashik. It is located in the Panchavati area and is dedicated to Lord Rama. The temple is known for its beautiful black stone idol of Lord Rama. Nilkanth varni maharaj (Bhagwan Swaminarayan in his young age) also visited this temple when he came in nashik while his vicharan.",
-      "hi": "श्री कालाराम मंदिर नाशिक के सबसे प्रसिद्ध मंदिरों में से एक है। यह पंचवटी क्षेत्र में स्थित है और भगवान श्रीराम को समर्पित है। यह मंदिर भगवान राम की काले पत्थर की सुंदर मूर्ति के लिए जाना जाता है।",
-      "gu": "શ્રી કાલારામ મંદિર નાશિકના સૌથી પ્રસિદ્ધ મંદિરોમાંનું એક છે. તે પંચવટી વિસ્તારમાં આવેલું છે અને ભગવાન શ્રીરામને સમર્પિત છે. મંદિર ભગવાન રામની કાળા પથ્થરની સુંદર મૂર્તિ માટે જાણીતું છે."
-    },
-    "historySections": {
-      "en": [
-        "Introduction:Shri Kalaram Mandir is one of the most famous temples in Nashik. It is located in the Panchavati area and is dedicated to Lord Rama. The temple is known for its beautiful black stone idol of Lord Rama. Nilkanth varni maharaj (Bhagwan Swaminarayan in his young age) also visited this temple when he came in nashik while his vicharan.",
-        "History:The temple was built in the 18th century by Sardar Rangarao Odhekar. It is constructed in black stone and has excellent traditional architecture. The temple also played an important role during social reform movements led by Dr. B.R. Ambedkar.",
-        "Importance:The main idol of Lord Rama is made of black stone, which is why the temple is called “Kalaram” (Kala means black). It is believed that Lord Rama stayed in Panchavati during his exile. The temple is very important during Ram Navami festival.",
-        "Darshan Information:The temple usually opens early in the morning at and closes at night. Devotees can attend aarti and daily pooja. There is no entry fee, and proper traditional clothing is preferred while visiting."
-      ],
-      "hi": [
-        "परिचय:श्री कालाराम मंदिर नाशिक के सबसे प्रसिद्ध मंदिरों में से एक है। यह पंचवटी क्षेत्र में स्थित है और भगवान श्रीराम को समर्पित है। यह मंदिर भगवान राम की काले पत्थर की सुंदर मूर्ति के लिए जाना जाता है।",
-        "इतिहास:यह मंदिर 18वीं शताब्दी में सरदार रंगाराव ओढेकर द्वारा बनवाया गया था। मंदिर काले पत्थरों से बना है और इसकी वास्तुकला बहुत सुंदर है। यह मंदिर डॉ. बाबासाहेब आंबेडकर के सामाजिक आंदोलन से भी जुड़ा हुआ है।",
-        "महत्व:मंदिर में भगवान राम की काले पत्थर की मूर्ति होने के कारण इसे \"कालाराम\" कहा जाता है। मान्यता है कि भगवान राम ने अपने वनवास के दौरान पंचवटी में निवास किया था। राम नवमी के समय यहाँ विशेष उत्सव होता है।",
-        "दर्शन जानकारी:मंदिर सुबह जल्दी खुलता है और रात में बंद होता है। यहाँ दैनिक पूजा और आरती होती है। प्रवेश निःशुल्क है और पारंपरिक वस्त्र पहनना उचित माना जाता है।"
-      ],
-      "gu": [
-        "પરિચય:શ્રી કાલારામ મંદિર નાશિકના સૌથી પ્રસિદ્ધ મંદિરોમાંનું એક છે. તે પંચવટી વિસ્તારમાં આવેલું છે અને ભગવાન શ્રીરામને સમર્પિત છે. મંદિર ભગવાન રામની કાળા પથ્થરની સુંદર મૂર્તિ માટે જાણીતું છે.",
-        "ઇતિહાસ:આ મંદિર ૧૮મી સદીમાં સરદાર રંગારાવ ઓઢેકર દ્વારા બનાવવામાં આવ્યું હતું. મંદિર કાળા પથ્થરથી બનાવાયેલ છે અને તેની રચના ખૂબ સુંદર છે. આ મંદિર ડૉ. બાબાસાહેબ આંબેડકરના સામાજિક આંદોલન સાથે પણ જોડાયેલું છે.",
-        "મહત્વ:ભગવાન રામની કાળા પથ્થરની મૂર્તિને કારણે તેને “કાલારામ” કહેવામાં આવે છે. માન્યતા મુજબ ભગવાન રામે પોતાના વનવાસ દરમિયાન પંચવટીમાં નિવાસ કર્યો હતો. રામ નવમીના દિવસે અહીં વિશેષ ઉત્સવ ઉજવાય છે.",
-        "દર્શન માહિતી:મંદિર સવારે વહેલી ખુલ્લે છે અને રાત્રે બંધ થાય છે. અહીં દૈનિક પૂજા અને આરતી થાય છે. પ્રવેશ નિઃશુલ્ક છે અને પરંપરાગત વસ્ત્રો પહેરવા યોગ્ય માનવામાં આવે છે."
-      ]
-    }
-  },
-  {
-    "id": "sita-gumpha",
-    "image": "img/sita-gumpha.jpg.jpeg",
-    "query": "https://www.google.com/maps/place/Sita+Gufa/@20.0074386,73.7961176,21z/data=!4m6!3m5!1s0x3bddea539985328b:0x3e228148910fbbfa!8m2!3d20.0074907!4d73.7961144!16s%2Fg%2F1tj1qjqm?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D",
-    "name": {
-      "en": "Sita Gumpha",
-      "hi": "सीता गुंफा",
-      "gu": "સીતા ગુફા"
-    },
-    "subtitle": {
-      "en": "Sita Gufa is a small cave located in the Panchavati area of Nashik. It is believed to be the place where Sita Mata stayed during the exile period of Lord Rama.",
-      "hi": "सीता गुफा पंचवटी क्षेत्र में स्थित एक छोटी गुफा है। मान्यता है कि वनवास के समय माता सीता यहाँ रही थीं।",
-      "gu": "સીતા ગુફા પંચવટી વિસ્તારમાં આવેલી એક નાની ગુફા છે. માન્યતા મુજબ વનવાસ દરમિયાન માતા સીતાજી અહીં રહ્યા હતા."
-    },
-    "historySections": {
-      "en": [
-        "Introduction:Sita Gufa is a small cave located in the Panchavati area of Nashik. It is believed to be the place where Sita Mata stayed during the exile period of Lord Rama.",
-        "History:According to the Ramayana, Lord Rama, Sita, and Lakshman lived in this area during their 14 years of exile. The cave is very small and has idols of Lord Rama, Sita, and Lakshman inside.",
-        "Importance:This place is connected to the story of Ravana kidnapping Sita. It is considered a holy and historical place for devotees of Lord Rama.",
-        "Darshan Information:The cave is open throughout the day. Visitors have to bend down to enter because the cave is narrow. It can get crowded during weekends and festivals."
-      ],
-      "hi": [
-        "परिचय:सीता गुफा पंचवटी क्षेत्र में स्थित एक छोटी गुफा है। मान्यता है कि वनवास के समय माता सीता यहाँ रही थीं।",
-        "इतिहास:रामायण के अनुसार भगवान राम, सीता और लक्ष्मण ने अपने वनवास के दौरान इस क्षेत्र में निवास किया था। गुफा के अंदर राम, सीता और लक्ष्मण की मूर्तियाँ हैं।",
-        "महत्व:यह स्थान रावण द्वारा सीता हरण की कथा से जुड़ा हुआ है। इसलिए यह स्थान भक्तों के लिए पवित्र माना जाता है।",
-        "दर्शन जानकारी:गुफा दिनभर खुली रहती है। अंदर जाने के लिए झुककर प्रवेश करना पड़ता है क्योंकि रास्ता संकरा है। त्योहारों में यहाँ भीड़ अधिक होती है।"
-      ],
-      "gu": [
-        "પરિચય:સીતા ગુફા પંચવટી વિસ્તારમાં આવેલી એક નાની ગુફા છે. માન્યતા મુજબ વનવાસ દરમિયાન માતા સીતાજી અહીં રહ્યા હતા.",
-        "ઇતિહાસ:રામાયણ મુજબ ભગવાન રામ, સીતાજી અને લક્ષ્મણે વનવાસ દરમિયાન અહીં નિવાસ કર્યો હતો. ગુફામાં રામ, સીતાજી અને લક્ષ્મણજીની મૂર્તિઓ છે.",
-        "મહત્વ:આ સ્થાન રાવણ દ્વારા સીતાજી હરણની ઘટનાથી જોડાયેલું છે. તેથી આ સ્થળ પવિત્ર માનવામાં આવે છે.",
-        "દર્શન માહિતી:ગુફા દિવસભર ખુલ્લી રહે છે. અંદર જવા માટે નમવું પડે છે કારણ કે રસ્તો સાંકડો છે. તહેવારોમાં અહીં ભીડ વધુ હોય છે."
-      ]
-    }
-  },
-  {
-    "id": "ram-ghat",
-    "image": "img/ramkund.jpg.jpeg",
-    "query": "https://www.google.com/maps/place/Ramghat+,+Panchvati,Nashik/@20.0080634,73.7925838,21z/data=!4m6!3m5!1s0x3bddeb003ddd0adb:0x6be8792c040b5aa7!8m2!3d20.0082123!4d73.7922283!16s%2Fg%2F11y28_mfkh?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D",
-    "name": {
-      "en": "Ram Ghat",
-      "hi": "राम घाट",
-      "gu": "રામ ઘાટ"
-    },
-    "subtitle": {
-      "en": "Ram Ghat, also known as Ram Kund, is a holy bathing place on the banks of the Godavari River in Nashik. It is located near Panchavati.",
-      "hi": "रामकुंड गोदावरी नदी के किनारे स्थित एक पवित्र स्नान स्थल है। यह पंचवटी के पास स्थित है।",
-      "gu": "રામકુંડ ગોદાવરી નદીના કિનારે આવેલું પવિત્ર સ્નાન સ્થળ છે. તે પંચવટી નજીક આવેલું છે."
-    },
-    "historySections": {
-      "en": [
-        "Introduction:Ram Ghat, also known as Ram Kund, is a holy bathing place on the banks of the Godavari River in Nashik. It is located near Panchavati.",
-        "History:It is believed that Lord Rama used to bathe here during his exile. The kund has been an important religious place for many centuries.",
-        "Importance:Devotees believe that taking a bath here washes away sins. Many people also perform rituals and immerse ashes of loved ones here. The Kumbh Mela is also held near this area.",
-        "Darshan Information:The ghat is open all day for visitors. Early morning and evening are the best times to visit. Visitors should be careful while walking near the water."
-      ],
-      "hi": [
-        "परिचय:रामकुंड गोदावरी नदी के किनारे स्थित एक पवित्र स्नान स्थल है। यह पंचवटी के पास स्थित है।",
-        "इतिहास:मान्यता है कि भगवान राम ने वनवास के समय यहाँ स्नान किया था। यह स्थान कई सदियों से धार्मिक महत्व रखता है।",
-        "महत्व:लोग मानते हैं कि यहाँ स्नान करने से पाप दूर होते हैं। यहाँ पिंडदान और अस्थि विसर्जन भी किया जाता है। कुंभ मेला भी इसी क्षेत्र में आयोजित होता है। जब श्री नीलकंठ वर्णी महाराज नासिक पधारे तब उन्होंने भी इसी राम कुंड में स्नान किया था।",
-        "दर्शन जानकारी:यह स्थान पूरे दिन खुला रहता है। सुबह और शाम का समय सबसे अच्छा माना जाता है। पानी के पास सावधानी रखना आवश्यक है।"
-      ],
-      "gu": [
-        "પરિચય:રામકુંડ ગોદાવરી નદીના કિનારે આવેલું પવિત્ર સ્નાન સ્થળ છે. તે પંચવટી નજીક આવેલું છે.",
-        "ઇતિહાસ:માન્યતા મુજબ ભગવાન રામે વનવાસ દરમિયાન અહીં સ્નાન કર્યું હતું. આ સ્થળ સદીઓથી ધાર્મિક મહત્વ ધરાવે છે.",
-        "મહત્વ:અહીં સ્નાન કરવાથી પાપ દૂર થાય છે એવી માન્યતા છે. અહીં પિંડદાન અને અસ્થિવિસર્જન કરવામાં આવે છે. કુંભમેળો પણ અહીં યોજાય છે. શ્રી નીલકંઠ વર્ણી મહારાજ જ્યારે નાશિક આવ્યા હતા ત્યારે તેઓએ પણ આ રામ કુંડમા સ્નાન કર્યું હતું.",
-        "દર્શન માહિતી:આ સ્થળ દિવસભર ખુલ્લું રહે છે. સવારે અને સાંજે આવવું ઉત્તમ છે. પાણી પાસે સાવચેત રહેવું જરૂરી છે."
-      ]
-    }
-  },
-  {
-    "id": "tapovan",
-    "image": "img/tapovan.jpeg",
-    "query": "https://www.google.com/maps/place/Tapowan/@20.0002387,73.813193,19.25z/data=!4m6!3m5!1s0x3bddeb0067e52785:0xd08f0a2342b58d34!8m2!3d20.0005946!4d73.8141966!16s%2Fg%2F11xgkvz0dj?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D",
-    "name": {
-      "en": "Tapovan",
-      "hi": "तपोवन",
-      "gu": "તપોવન"
-    },
-    "subtitle": {
-      "en": "Tapovan is a sacred area near Panchavati in Nashik. It is surrounded by peaceful surroundings and small temples.",
-      "hi": "तपोवन पंचवटी के पास स्थित एक पवित्र स्थान है। यहाँ का वातावरण शांत और आध्यात्मिक है।",
-      "gu": "તપોવન પંચવટી નજીક આવેલું પવિત્ર સ્થળ છે. અહીંનું વાતાવરણ શાંત અને આધ્યાત્મિક છે."
-    },
-    "historySections": {
-      "en": [
-        "Introduction:Tapovan is a sacred area near Panchavati in Nashik. It is surrounded by peaceful surroundings and small temples.",
-        "History:It is believed that Lakshman cut off the nose of Surpanakha at this place during the Ramayana period. The name Tapovan means a forest where sages performed meditation (tapasya).",
-        "Importance:Tapovan is connected with many stories from the Ramayana. Devotees visit this place to experience peace and spiritual atmosphere.",
-        "Darshan Information:The area is open for visitors throughout the day. There are small temples and ashrams nearby. It is best visited during the daytime."
-      ],
-      "hi": [
-        "परिचय:तपोवन पंचवटी के पास स्थित एक पवित्र स्थान है। यहाँ का वातावरण शांत और आध्यात्मिक है।",
-        "इतिहास:मान्यता है कि यहीं पर लक्ष्मण ने शूर्पणखा की नाक काटी थी। प्राचीन समय में यहाँ ऋषि-मुनि तपस्या करते थे।",
-        "महत्व:यह स्थान रामायण की कई कथाओं से जुड़ा है। श्रद्धालु यहाँ शांति और आध्यात्मिक अनुभव के लिए आते हैं।",
-        "दर्शन जानकारी:यह स्थान पूरे दिन खुला रहता है। तपोवन में देखने के लिए लक्ष्मण मंदिर, कपिला गोदावरी संगम और भगवान श्रीराम की मूर्ति है।"
-      ],
-      "gu": [
-        "પરિચય:તપોવન પંચવટી નજીક આવેલું પવિત્ર સ્થળ છે. અહીંનું વાતાવરણ શાંત અને આધ્યાત્મિક છે.",
-        "ઇતિહાસ:માન્યતા મુજબ અહીં લક્ષ્મણે શૂર્પણખાનું નાક કાપ્યું હતું. પ્રાચીન સમયમાં અહીં ઋષિ-મુનિઓ તપસ્યા કરતા હતા.",
-        "મહત્વ:આ સ્થાન રામાયણની અનેક કથાઓ સાથે જોડાયેલું છે. ભક્તો અહીં શાંતિ અને આધ્યાત્મિક અનુભવ માટે આવે છે.",
-        "દર્શન માહિતી:આ સ્થળ દિવસભર ખુલ્લું રહે છે. તપોવનમાં જોવા માટે લક્ષ્મણ મંદિર, કપિલા - ગોદાવરી સંગમ અને ભગવાન શ્રીરામની પ્રતિમા છે."
-      ]
-    }
-  },
-  {
-    "id": "swaminarayan-mandir",
-    "image": "img/swaminarayn-mandir.JPG",
-    "query": "https://www.google.com/maps/place/Shree+Swaminarayan+Mandir,Nashik/@20.0095141,73.8073459,19.75z/data=!4m6!3m5!1s0x3bddeb4e9ab534b5:0x96e6b7089dfb9408!8m2!3d20.0095601!4d73.807391!16s%2Fg%2F11kj6qvhp9?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D",
-    "name": {
-      "en": "Shri Swaminarayan Mandir, Nashik",
-      "hi": "श्री स्वामिनारायण मंदिर",
-      "gu": "શ્રી સ્વામિનારાયણ મંદિર"
-    },
-    "subtitle": {
-      "en": "",
-      "hi": "भगवान स्वामीनारायण जब अपनी युवावस्था में वन-विचरण के दौरान नासिक पधारे थे, तब वे यहाँ रुके थे; उसी प्रसादी स्थान पर यह चरणारविंद की स्थापना की गई है।",
-      "gu": ""
-    },
-    "historySections": {
-      "en": [
-        "Sanctified Charnarvind:",
-        "\"When Bhagwan Swaminarayan visited Nashik during His youth while on His forest travels, He stayed here; the Charanarvind (holy footprints) have been consecrated at that very sanctified spot.\"",
-        "Sanctified Well:",
-        "\"When Bhagwan Swaminarayan stayed here, He used to draw water from this well for His daily ablutions; this is that sanctified well.\""
-      ],
-      "hi": [
-        "प्रसादिक चरणारविंद:\"भगवान स्वामीनारायण जब अपनी युवावस्था में वन-विचरण के दौरान नासिक पधारे थे, तब वे यहाँ रुके थे; उसी प्रसादी स्थान पर यह चरणारविंद की स्थापना की गई है।\"",
-        "प्रसादिक कुआ:\"भगवान स्वामीनारायण जब यहाँ रुके थे, तब वे इस कुएँ से जल खींचकर स्नान-विधि करते थे; यह वही प्रसादी कुआँ है।\""
-      ],
-      "gu": [
-        "પ્રાસાદિક ચારણરવિંદ:",
-        "\"ભગવાન સ્વામિનારાયણ જ્યારે પોતાની યુવાવસ્થામાં વન-વિચરણ દરમિયાન નાસિક પધાર્યા હતા, ત્યારે તેઓ અહીં રોકાયા હતા; તે પ્રસાદીભૂત સ્થાન પર આ ચરણારવિંદની સ્થાપના કરવામાં આવી છે.\"",
-        "પ્રાસાદિક કૂવો:",
-        "\"ભગવાન સ્વામિનારાયણ જ્યારે અહીં રોકાયા હતા, ત્યારે તેઓ આ કૂવામાંથી જળ ખેંચીને સ્નાનવિધિ કરતા હતા; આ પ્રસાદીનો કૂવો.\""
-      ]
-    }
-  },
-  {
     "id": "baps-swaminarayan",
     "image": "img/baps-swaminarayan.jpeg",
     "query": "https://www.google.com/maps/place/BAPS+Shri+Swaminarayan+Mandir+Nashik/@20.0033156,73.8046052,20.25z/data=!4m6!3m5!1s0x3bddea57e6099fc5:0xaab4cb5ef58e110d!8m2!3d20.0033763!4d73.8053295!16s%2Fg%2F11cs5pw_d9?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D",
@@ -273,6 +100,179 @@ window.PLACE_CONTENT = [
         "રામાયણ-ચરિત્ર: ૧૩ ચિત્ર",
         "મહાભારત-ચરિત્ર: ૯ ચિત્ર",
         "સંસ્કૃતિ નાદ: ૧૨ ચિત્ર"
+      ]
+    }
+  },
+  {
+    "id": "swaminarayan-mandir",
+    "image": "img/swaminarayn-mandir.JPG",
+    "query": "https://www.google.com/maps/place/Shree+Swaminarayan+Mandir,Nashik/@20.0095141,73.8073459,19.75z/data=!4m6!3m5!1s0x3bddeb4e9ab534b5:0x96e6b7089dfb9408!8m2!3d20.0095601!4d73.807391!16s%2Fg%2F11kj6qvhp9?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D",
+    "name": {
+      "en": "Shri Swaminarayan Mandir, Nashik",
+      "hi": "श्री स्वामिनारायण मंदिर",
+      "gu": "શ્રી સ્વામિનારાયણ મંદિર"
+    },
+    "subtitle": {
+      "en": "",
+      "hi": "भगवान स्वामीनारायण जब अपनी युवावस्था में वन-विचरण के दौरान नासिक पधारे थे, तब वे यहाँ रुके थे; उसी प्रसादी स्थान पर यह चरणारविंद की स्थापना की गई है।",
+      "gu": ""
+    },
+    "historySections": {
+      "en": [
+        "Sanctified Charnarvind:",
+        "\"When Bhagwan Swaminarayan visited Nashik during His youth while on His forest travels, He stayed here; the Charanarvind (holy footprints) have been consecrated at that very sanctified spot.\"",
+        "Sanctified Well:",
+        "\"When Bhagwan Swaminarayan stayed here, He used to draw water from this well for His daily ablutions; this is that sanctified well.\""
+      ],
+      "hi": [
+        "प्रसादिक चरणारविंद:\"भगवान स्वामीनारायण जब अपनी युवावस्था में वन-विचरण के दौरान नासिक पधारे थे, तब वे यहाँ रुके थे; उसी प्रसादी स्थान पर यह चरणारविंद की स्थापना की गई है।\"",
+        "प्रसादिक कुआ:\"भगवान स्वामीनारायण जब यहाँ रुके थे, तब वे इस कुएँ से जल खींचकर स्नान-विधि करते थे; यह वही प्रसादी कुआँ है।\""
+      ],
+      "gu": [
+        "પ્રાસાદિક ચારણરવિંદ:",
+        "\"ભગવાન સ્વામિનારાયણ જ્યારે પોતાની યુવાવસ્થામાં વન-વિચરણ દરમિયાન નાસિક પધાર્યા હતા, ત્યારે તેઓ અહીં રોકાયા હતા; તે પ્રસાદીભૂત સ્થાન પર આ ચરણારવિંદની સ્થાપના કરવામાં આવી છે.\"",
+        "પ્રાસાદિક કૂવો:",
+        "\"ભગવાન સ્વામિનારાયણ જ્યારે અહીં રોકાયા હતા, ત્યારે તેઓ આ કૂવામાંથી જળ ખેંચીને સ્નાનવિધિ કરતા હતા; આ પ્રસાદીનો કૂવો.\""
+      ]
+    }
+  },
+  {
+    "id": "tapovan",
+    "image": "img/tapovan.jpeg",
+    "query": "https://www.google.com/maps/place/Tapowan/@20.0002387,73.813193,19.25z/data=!4m6!3m5!1s0x3bddeb0067e52785:0xd08f0a2342b58d34!8m2!3d20.0005946!4d73.8141966!16s%2Fg%2F11xgkvz0dj?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D",
+    "name": {
+      "en": "Tapovan",
+      "hi": "तपोवन",
+      "gu": "તપોવન"
+    },
+    "subtitle": {
+      "en": "Tapovan is a sacred area near Panchavati in Nashik. It is surrounded by peaceful surroundings and small temples.",
+      "hi": "तपोवन पंचवटी के पास स्थित एक पवित्र स्थान है। यहाँ का वातावरण शांत और आध्यात्मिक है।",
+      "gu": "તપોવન પંચવટી નજીક આવેલું પવિત્ર સ્થળ છે. અહીંનું વાતાવરણ શાંત અને આધ્યાત્મિક છે."
+    },
+    "historySections": {
+      "en": [
+        "Introduction:Tapovan is a sacred area near Panchavati in Nashik. It is surrounded by peaceful surroundings and small temples.",
+        "History:It is believed that Lakshman cut off the nose of Surpanakha at this place during the Ramayana period. The name Tapovan means a forest where sages performed meditation (tapasya).",
+        "Importance:Tapovan is connected with many stories from the Ramayana. Devotees visit this place to experience peace and spiritual atmosphere.",
+        "Darshan Information:The area is open for visitors throughout the day. There are small temples and ashrams nearby. It is best visited during the daytime."
+      ],
+      "hi": [
+        "परिचय:तपोवन पंचवटी के पास स्थित एक पवित्र स्थान है। यहाँ का वातावरण शांत और आध्यात्मिक है।",
+        "इतिहास:मान्यता है कि यहीं पर लक्ष्मण ने शूर्पणखा की नाक काटी थी। प्राचीन समय में यहाँ ऋषि-मुनि तपस्या करते थे।",
+        "महत्व:यह स्थान रामायण की कई कथाओं से जुड़ा है। श्रद्धालु यहाँ शांति और आध्यात्मिक अनुभव के लिए आते हैं।",
+        "दर्शन जानकारी:यह स्थान पूरे दिन खुला रहता है। तपोवन में देखने के लिए लक्ष्मण मंदिर, कपिला गोदावरी संगम और भगवान श्रीराम की मूर्ति है।"
+      ],
+      "gu": [
+        "પરિચય:તપોવન પંચવટી નજીક આવેલું પવિત્ર સ્થળ છે. અહીંનું વાતાવરણ શાંત અને આધ્યાત્મિક છે.",
+        "ઇતિહાસ:માન્યતા મુજબ અહીં લક્ષ્મણે શૂર્પણખાનું નાક કાપ્યું હતું. પ્રાચીન સમયમાં અહીં ઋષિ-મુનિઓ તપસ્યા કરતા હતા.",
+        "મહત્વ:આ સ્થાન રામાયણની અનેક કથાઓ સાથે જોડાયેલું છે. ભક્તો અહીં શાંતિ અને આધ્યાત્મિક અનુભવ માટે આવે છે.",
+        "દર્શન માહિતી:આ સ્થળ દિવસભર ખુલ્લું રહે છે. તપોવનમાં જોવા માટે લક્ષ્મણ મંદિર, કપિલા - ગોદાવરી સંગમ અને ભગવાન શ્રીરામની પ્રતિમા છે."
+      ]
+    }
+  },
+  {
+    "id": "ram-ghat",
+    "image": "img/ramkund.jpg.jpeg",
+    "query": "https://www.google.com/maps/place/Ramghat+,+Panchvati,Nashik/@20.0080634,73.7925838,21z/data=!4m6!3m5!1s0x3bddeb003ddd0adb:0x6be8792c040b5aa7!8m2!3d20.0082123!4d73.7922283!16s%2Fg%2F11y28_mfkh?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D",
+    "name": {
+      "en": "Ram Ghat",
+      "hi": "राम घाट",
+      "gu": "રામ ઘાટ"
+    },
+    "subtitle": {
+      "en": "Ram Ghat, also known as Ram Kund, is a holy bathing place on the banks of the Godavari River in Nashik. It is located near Panchavati.",
+      "hi": "रामकुंड गोदावरी नदी के किनारे स्थित एक पवित्र स्नान स्थल है। यह पंचवटी के पास स्थित है।",
+      "gu": "રામકુંડ ગોદાવરી નદીના કિનારે આવેલું પવિત્ર સ્નાન સ્થળ છે. તે પંચવટી નજીક આવેલું છે."
+    },
+    "historySections": {
+      "en": [
+        "Introduction:Ram Ghat, also known as Ram Kund, is a holy bathing place on the banks of the Godavari River in Nashik. It is located near Panchavati.",
+        "History:It is believed that Lord Rama used to bathe here during his exile. The kund has been an important religious place for many centuries.",
+        "Importance:Devotees believe that taking a bath here washes away sins. Many people also perform rituals and immerse ashes of loved ones here. The Kumbh Mela is also held near this area.",
+        "Darshan Information:The ghat is open all day for visitors. Early morning and evening are the best times to visit. Visitors should be careful while walking near the water."
+      ],
+      "hi": [
+        "परिचय:रामकुंड गोदावरी नदी के किनारे स्थित एक पवित्र स्नान स्थल है। यह पंचवटी के पास स्थित है।",
+        "इतिहास:मान्यता है कि भगवान राम ने वनवास के समय यहाँ स्नान किया था। यह स्थान कई सदियों से धार्मिक महत्व रखता है।",
+        "महत्व:लोग मानते हैं कि यहाँ स्नान करने से पाप दूर होते हैं। यहाँ पिंडदान और अस्थि विसर्जन भी किया जाता है। कुंभ मेला भी इसी क्षेत्र में आयोजित होता है। जब श्री नीलकंठ वर्णी महाराज नासिक पधारे तब उन्होंने भी इसी राम कुंड में स्नान किया था।",
+        "दर्शन जानकारी:यह स्थान पूरे दिन खुला रहता है। सुबह और शाम का समय सबसे अच्छा माना जाता है। पानी के पास सावधानी रखना आवश्यक है।"
+      ],
+      "gu": [
+        "પરિચય:રામકુંડ ગોદાવરી નદીના કિનારે આવેલું પવિત્ર સ્નાન સ્થળ છે. તે પંચવટી નજીક આવેલું છે.",
+        "ઇતિહાસ:માન્યતા મુજબ ભગવાન રામે વનવાસ દરમિયાન અહીં સ્નાન કર્યું હતું. આ સ્થળ સદીઓથી ધાર્મિક મહત્વ ધરાવે છે.",
+        "મહત્વ:અહીં સ્નાન કરવાથી પાપ દૂર થાય છે એવી માન્યતા છે. અહીં પિંડદાન અને અસ્થિવિસર્જન કરવામાં આવે છે. કુંભમેળો પણ અહીં યોજાય છે. શ્રી નીલકંઠ વર્ણી મહારાજ જ્યારે નાશિક આવ્યા હતા ત્યારે તેઓએ પણ આ રામ કુંડમા સ્નાન કર્યું હતું.",
+        "દર્શન માહિતી:આ સ્થળ દિવસભર ખુલ્લું રહે છે. સવારે અને સાંજે આવવું ઉત્તમ છે. પાણી પાસે સાવચેત રહેવું જરૂરી છે."
+      ]
+    }
+  },
+  {
+    "id": "kalaram",
+    "image": "img/kalaram.jpeg",
+    "query": "https://www.google.com/maps/place/Shree+Kalaram+Mandir,+Panchavati,+Nashik/@20.0070059,73.7953316,20.75z/data=!4m6!3m5!1s0x3bddea54af93f661:0x24d9baa56b890e57!8m2!3d20.0069904!4d73.7952288!16zL20vMDZkem5f?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D",
+    "name": {
+      "en": "Shri Kalaram Mandir",
+      "hi": "श्री कालाराम मंदिर",
+      "gu": "શ્રી કાલારામ મંદિર"
+    },
+    "subtitle": {
+      "en": "Shri Kalaram Mandir is one of the most famous temples in Nashik. It is located in the Panchavati area and is dedicated to Lord Rama. The temple is known for its beautiful black stone idol of Lord Rama. Nilkanth varni maharaj (Bhagwan Swaminarayan in his young age) also visited this temple when he came in nashik while his vicharan.",
+      "hi": "श्री कालाराम मंदिर नाशिक के सबसे प्रसिद्ध मंदिरों में से एक है। यह पंचवटी क्षेत्र में स्थित है और भगवान श्रीराम को समर्पित है। यह मंदिर भगवान राम की काले पत्थर की सुंदर मूर्ति के लिए जाना जाता है।",
+      "gu": "શ્રી કાલારામ મંદિર નાશિકના સૌથી પ્રસિદ્ધ મંદિરોમાંનું એક છે. તે પંચવટી વિસ્તારમાં આવેલું છે અને ભગવાન શ્રીરામને સમર્પિત છે. મંદિર ભગવાન રામની કાળા પથ્થરની સુંદર મૂર્તિ માટે જાણીતું છે."
+    },
+    "historySections": {
+      "en": [
+        "Introduction:Shri Kalaram Mandir is one of the most famous temples in Nashik. It is located in the Panchavati area and is dedicated to Lord Rama. The temple is known for its beautiful black stone idol of Lord Rama. Nilkanth varni maharaj (Bhagwan Swaminarayan in his young age) also visited this temple when he came in nashik while his vicharan.",
+        "History:The temple was built in the 18th century by Sardar Rangarao Odhekar. It is constructed in black stone and has excellent traditional architecture. The temple also played an important role during social reform movements led by Dr. B.R. Ambedkar.",
+        "Importance:The main idol of Lord Rama is made of black stone, which is why the temple is called “Kalaram” (Kala means black). It is believed that Lord Rama stayed in Panchavati during his exile. The temple is very important during Ram Navami festival.",
+        "Darshan Information:The temple usually opens early in the morning at and closes at night. Devotees can attend aarti and daily pooja. There is no entry fee, and proper traditional clothing is preferred while visiting."
+      ],
+      "hi": [
+        "परिचय:श्री कालाराम मंदिर नाशिक के सबसे प्रसिद्ध मंदिरों में से एक है। यह पंचवटी क्षेत्र में स्थित है और भगवान श्रीराम को समर्पित है। यह मंदिर भगवान राम की काले पत्थर की सुंदर मूर्ति के लिए जाना जाता है।",
+        "इतिहास:यह मंदिर 18वीं शताब्दी में सरदार रंगाराव ओढेकर द्वारा बनवाया गया था। मंदिर काले पत्थरों से बना है और इसकी वास्तुकला बहुत सुंदर है। यह मंदिर डॉ. बाबासाहेब आंबेडकर के सामाजिक आंदोलन से भी जुड़ा हुआ है।",
+        "महत्व:मंदिर में भगवान राम की काले पत्थर की मूर्ति होने के कारण इसे \"कालाराम\" कहा जाता है। मान्यता है कि भगवान राम ने अपने वनवास के दौरान पंचवटी में निवास किया था। राम नवमी के समय यहाँ विशेष उत्सव होता है।",
+        "दर्शन जानकारी:मंदिर सुबह जल्दी खुलता है और रात में बंद होता है। यहाँ दैनिक पूजा और आरती होती है। प्रवेश निःशुल्क है और पारंपरिक वस्त्र पहनना उचित माना जाता है।"
+      ],
+      "gu": [
+        "પરિચય:શ્રી કાલારામ મંદિર નાશિકના સૌથી પ્રસિદ્ધ મંદિરોમાંનું એક છે. તે પંચવટી વિસ્તારમાં આવેલું છે અને ભગવાન શ્રીરામને સમર્પિત છે. મંદિર ભગવાન રામની કાળા પથ્થરની સુંદર મૂર્તિ માટે જાણીતું છે.",
+        "ઇતિહાસ:આ મંદિર ૧૮મી સદીમાં સરદાર રંગારાવ ઓઢેકર દ્વારા બનાવવામાં આવ્યું હતું. મંદિર કાળા પથ્થરથી બનાવાયેલ છે અને તેની રચના ખૂબ સુંદર છે. આ મંદિર ડૉ. બાબાસાહેબ આંબેડકરના સામાજિક આંદોલન સાથે પણ જોડાયેલું છે.",
+        "મહત્વ:ભગવાન રામની કાળા પથ્થરની મૂર્તિને કારણે તેને “કાલારામ” કહેવામાં આવે છે. માન્યતા મુજબ ભગવાન રામે પોતાના વનવાસ દરમિયાન પંચવટીમાં નિવાસ કર્યો હતો. રામ નવમીના દિવસે અહીં વિશેષ ઉત્સવ ઉજવાય છે.",
+        "દર્શન માહિતી:મંદિર સવારે વહેલી ખુલ્લે છે અને રાત્રે બંધ થાય છે. અહીં દૈનિક પૂજા અને આરતી થાય છે. પ્રવેશ નિઃશુલ્ક છે અને પરંપરાગત વસ્ત્રો પહેરવા યોગ્ય માનવામાં આવે છે."
+      ]
+    }
+  },
+  {
+    "id": "sita-gumpha",
+    "image": "img/sita-gumpha.jpg.jpeg",
+    "query": "https://www.google.com/maps/place/Sita+Gufa/@20.0074386,73.7961176,21z/data=!4m6!3m5!1s0x3bddea539985328b:0x3e228148910fbbfa!8m2!3d20.0074907!4d73.7961144!16s%2Fg%2F1tj1qjqm?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D",
+    "name": {
+      "en": "Sita Gumpha",
+      "hi": "सीता गुंफा",
+      "gu": "સીતા ગુફા"
+    },
+    "subtitle": {
+      "en": "Sita Gufa is a small cave located in the Panchavati area of Nashik. It is believed to be the place where Sita Mata stayed during the exile period of Lord Rama.",
+      "hi": "सीता गुफा पंचवटी क्षेत्र में स्थित एक छोटी गुफा है। मान्यता है कि वनवास के समय माता सीता यहाँ रही थीं।",
+      "gu": "સીતા ગુફા પંચવટી વિસ્તારમાં આવેલી એક નાની ગુફા છે. માન્યતા મુજબ વનવાસ દરમિયાન માતા સીતાજી અહીં રહ્યા હતા."
+    },
+    "historySections": {
+      "en": [
+        "Introduction:Sita Gufa is a small cave located in the Panchavati area of Nashik. It is believed to be the place where Sita Mata stayed during the exile period of Lord Rama.",
+        "History:According to the Ramayana, Lord Rama, Sita, and Lakshman lived in this area during their 14 years of exile. The cave is very small and has idols of Lord Rama, Sita, and Lakshman inside.",
+        "Importance:This place is connected to the story of Ravana kidnapping Sita. It is considered a holy and historical place for devotees of Lord Rama.",
+        "Darshan Information:The cave is open throughout the day. Visitors have to bend down to enter because the cave is narrow. It can get crowded during weekends and festivals."
+      ],
+      "hi": [
+        "परिचय:सीता गुफा पंचवटी क्षेत्र में स्थित एक छोटी गुफा है। मान्यता है कि वनवास के समय माता सीता यहाँ रही थीं।",
+        "इतिहास:रामायण के अनुसार भगवान राम, सीता और लक्ष्मण ने अपने वनवास के दौरान इस क्षेत्र में निवास किया था। गुफा के अंदर राम, सीता और लक्ष्मण की मूर्तियाँ हैं।",
+        "महत्व:यह स्थान रावण द्वारा सीता हरण की कथा से जुड़ा हुआ है। इसलिए यह स्थान भक्तों के लिए पवित्र माना जाता है।",
+        "दर्शन जानकारी:गुफा दिनभर खुली रहती है। अंदर जाने के लिए झुककर प्रवेश करना पड़ता है क्योंकि रास्ता संकरा है। त्योहारों में यहाँ भीड़ अधिक होती है।"
+      ],
+      "gu": [
+        "પરિચય:સીતા ગુફા પંચવટી વિસ્તારમાં આવેલી એક નાની ગુફા છે. માન્યતા મુજબ વનવાસ દરમિયાન માતા સીતાજી અહીં રહ્યા હતા.",
+        "ઇતિહાસ:રામાયણ મુજબ ભગવાન રામ, સીતાજી અને લક્ષ્મણે વનવાસ દરમિયાન અહીં નિવાસ કર્યો હતો. ગુફામાં રામ, સીતાજી અને લક્ષ્મણજીની મૂર્તિઓ છે.",
+        "મહત્વ:આ સ્થાન રાવણ દ્વારા સીતાજી હરણની ઘટનાથી જોડાયેલું છે. તેથી આ સ્થળ પવિત્ર માનવામાં આવે છે.",
+        "દર્શન માહિતી:ગુફા દિવસભર ખુલ્લી રહે છે. અંદર જવા માટે નમવું પડે છે કારણ કે રસ્તો સાંકડો છે. તહેવારોમાં અહીં ભીડ વધુ હોય છે."
       ]
     }
   },
